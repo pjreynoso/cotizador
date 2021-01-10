@@ -1,0 +1,22 @@
+@import './Login/login.scss';
+@import './Input/index.scss';
+@import './Select/index.scss';
+@import './Process/index.scss';
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Noto Sans TC', sans-serif;
+    background-image: url(../images/fondo.png);
+    background-repeat: no-repeat;
+    background-position-x: 56%;
+    background-position-y: 48%;
+}
+
+
+
